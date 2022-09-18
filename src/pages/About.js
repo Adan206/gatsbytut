@@ -7,7 +7,7 @@ function About() {
     <div>
       <Navbar />
       <p>This is About page</p>
-      <p>The</p>
+      <p>The navbar is</p>
     </div>
   )
 }
