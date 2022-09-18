@@ -7,7 +7,7 @@ function About() {
     <div>
       <Navbar />
       <p>This is About page</p>
-      <p>The navbar is</p>
+      <p>The navbar is on the top of the page</p>
     </div>
   )
 }
