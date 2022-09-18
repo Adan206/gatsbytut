@@ -7,6 +7,7 @@ function About() {
     <div>
       <Navbar />
       <p>This is About page</p>
+      <p>The</p>
     </div>
   )
 }
