@@ -1,7 +1,12 @@
 import React from "react"
+import Layout from "../components/Layout"
 
 function Contact() {
-  return <div>Contact Page is Right Here</div>
+  return (
+    <Layout>
+      <h1>Contact us: 2738383</h1>
+    </Layout>
+  )
 }
 
 export default Contact

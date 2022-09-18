@@ -1,12 +1,12 @@
 import React from "react"
 import Layout from "../components/Layout"
 
-function About() {
+function Recipes() {
   return (
     <Layout>
-      <h1>About Page</h1>
+      <h1>Recipes List</h1>
     </Layout>
   )
 }
 
-export default About
+export default Recipes
