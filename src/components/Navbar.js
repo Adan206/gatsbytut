@@ -7,15 +7,15 @@ function Navbar() {
       <nav
         style={{
           display: "flex",
-          justifyContent: "space-around",
+          justifyContent: "end",
+          marginRight: "6rem",
+          alignContent: "center",
         }}
       >
-        <h4>Navigation Section</h4>
         <ul
           style={{
             display: "flex",
             justifyContent: "center",
-            alignSelf: "center",
             gap: "2rem",
           }}
         >

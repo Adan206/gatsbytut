@@ -1,7 +1,9 @@
 import React from "react"
 import Navbar from "./Navbar"
 import Footer from "./Footer"
-import Contact from "../pages/Contact"
+
+import "normalize.css"
+import "../assets/css/main.css"
 
 const Layout = ({ children }) => {
   return (
